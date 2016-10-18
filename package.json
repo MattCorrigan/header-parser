@@ -1,0 +1,23 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "a parser for http headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattCorrigan/header-parser.git"
+  },
+  "author": "Matt Corrigan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattCorrigan/header-parser/issues"
+  },
+  "homepage": "https://github.com/MattCorrigan/header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
